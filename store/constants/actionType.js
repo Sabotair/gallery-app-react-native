@@ -1,0 +1,1 @@
+export const CREATE_PHOTOS = 'CREATE_PHOTOS'
